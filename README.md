@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Sr. MERN FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambutle&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambutle" /> </p>
-<img align= "right" alt="coding" width="400" scr="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align= "right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on **Jobber**
 
